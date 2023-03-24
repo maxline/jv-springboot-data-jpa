@@ -30,4 +30,4 @@ Your task is:
     - update Category
 - create required DTOs and mappers
 
-__Before submitting solution make sure you checked it first with__ [checklist](https://mate-academy.github.io/jv-program-common-mistakes/java-spring-boot/spring-data-jpa/checklist.md)
+__Before submitting solution make sure you checked it first with__ [checklist](https://mate-academy.github.io/jv-program-common-mistakes/java-spring-boot/spring-data-jpa/jv-springboot-data-jpa.html)
